@@ -3,7 +3,11 @@ Optimized time complexity and performance by refactoring program in NodeList and
 
 # Function Highlight
 -PrintList(): print a list of all vehicles
+
 -PrintAvailableList(): print out a list of all available vehicles using seats
+
 -CheckAvailability(): check if a car is reserved or not by entering the ID
+
 -Reserve() and Return(): reserve or return a vehicle
+
 -PrintAvailableList(): print out a list of all available vehicles using seats
